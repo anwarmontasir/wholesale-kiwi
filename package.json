@@ -1,0 +1,19 @@
+{
+  "name": "wholesale-kiwi",
+  "version": "1.0.0",
+  "description": "Simple app to demo Express for Thinkful's Node course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anwarmontasir/wholesale-kiwi.git"
+  },
+  "author": "Anwar Montasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anwarmontasir/wholesale-kiwi/issues"
+  },
+  "homepage": "https://github.com/anwarmontasir/wholesale-kiwi#readme"
+}
